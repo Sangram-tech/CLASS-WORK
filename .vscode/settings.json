@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "EVEN_ODD.C": "cpp"
+        "EVEN_ODD.C": "cpp",
+        "FIBONACCI_RECURSION.C": "cpp",
+        "FACTORIAL_RECURSION.C": "cpp"
     }
 }
