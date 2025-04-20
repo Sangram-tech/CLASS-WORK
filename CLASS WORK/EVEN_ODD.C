@@ -9,5 +9,5 @@ int main() {
     } else {
         printf("%d is odd.\n", number);
     }
-
+  return 0;
 }
